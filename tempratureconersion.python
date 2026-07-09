@@ -1,4 +1,6 @@
 # This program converts temperature between Celsius, Fahrenheit, and Kelvin.
+# The user is prompted to enter a temperature value and the unit of that temperature (C for Celsius, F for Fahrenheit, or K for Kelvin). The program then performs the necessary calculations to convert the temperature to the other two units and displays the results. If the user enters a temperature below absolute zero (-273.15°C), the program will notify them that this is not possible and exit.
+# The program also checks for valid unit input and will exit if the user enters an invalid unit. The results are rounded to two decimal places for clarity.
 Temperature = float(input("Enter the temperature: "))
 if Temperature < -273.15:
     print("Temperature cannot be below absolute zero (-273.15°C).")
