@@ -1,3 +1,4 @@
+# This program converts temperature between Celsius, Fahrenheit, and Kelvin.
 Temperature = float(input("Enter the temperature: "))
 if Temperature < -273.15:
     print("Temperature cannot be below absolute zero (-273.15°C).")
