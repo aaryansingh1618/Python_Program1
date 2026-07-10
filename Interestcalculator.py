@@ -1,3 +1,5 @@
+# Interest Calculator Program 
+# This program calculates both simple and compound interest based on user input for principal, rate, and time.
 class InterestCalculator:
     def __init__(self, principal, rate, time):
         self.principal = principal
