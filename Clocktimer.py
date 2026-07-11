@@ -1,6 +1,6 @@
 import time 
 # This program is a simple clock timer that displays the current time in hours, minutes, and seconds. It uses the time module to get the current local time and formats it for display. The program runs in an infinite loop, updating the time every second. The user can exit the program by pressing Ctrl+C.
-# TIS PROGRAM TELL TWO THINGS ONE is current time and other feture is timer which is used to set a timer for a specific duration. The user can input the duration in seconds,minutes,Hours and the program will count down from that duration to zero, displaying the remaining time in minutes and seconds format. When the timer reaches zero, it will print "Time's up!" to notify the user that the countdown has finished.
+# This Program Tell Two Things One is current time and other feture is timer which is used to set a timer for a specific duration. The user can input the duration in seconds,minutes,Hours and the program will count down from that duration to zero, displaying the remaining time in minutes and seconds format. When the timer reaches zero, it will print "Time's up!" to notify the user that the countdown has finished.
 class ClockTimer:
     def __init__(self):
         pass
