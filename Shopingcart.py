@@ -1,4 +1,5 @@
-#This is a cart game in which you enter some food name and their prices and you get waht you add in the last and total price
+#This is a cart game in which you enter some food name and their prices and you get waht you add in the last and total price.
+#This program taught me about lists,tuples,and sets 
 foods = []
 prices = []
 total = 0
