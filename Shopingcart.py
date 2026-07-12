@@ -1,3 +1,4 @@
+#This is a cart game in which you enter some food name and their prices and you get waht you add in the last and total price
 foods = []
 prices = []
 total = 0
