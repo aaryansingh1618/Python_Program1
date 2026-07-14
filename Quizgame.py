@@ -1,4 +1,5 @@
-#This is a quiz program in which you give your answer by options and then after completion you get your score
+#This is a quiz program in which you give your answer by options and then after completion you get your score.
+#This program teach me the tuples,set and their opration like append etc.
 questions =("Who is the CEO of JP Morgan: ",
             "Who is first trillionaire in the world: ",
             "Which Launguage widely used in AI/ML: ",
