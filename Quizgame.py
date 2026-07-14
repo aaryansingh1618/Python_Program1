@@ -1,3 +1,4 @@
+#This is a quiz program in which you give your answer by options and then after completion you get your score
 questions =("Who is the CEO of JP Morgan: ",
             "Who is first trillionaire in the world: ",
             "Which Launguage widely used in AI/ML: ",
