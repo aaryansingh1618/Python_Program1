@@ -1,3 +1,4 @@
+# In this program you can order something from menu then get your bill by your order and total
 menu ={"Pizza": 250.00,
        "Chole Bhature": 100,
        "Chocolate" : 100,
@@ -23,8 +24,6 @@ while True:
         break
     elif menu.get(food) is not None:
          cart.append(food)
-
-
 print("---------Your Order-----------")
 for food in cart:
     total += menu.get(food)
