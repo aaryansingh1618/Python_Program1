@@ -30,3 +30,4 @@ for food in cart:
     print(food,end="   ")
 print()
 print(f"Total is: {total: .2f}")
+#From this program i learn about dictionaries and their keys and values and how to call them and access them.
